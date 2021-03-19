@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331353907374",
+    "firebase_url": "https://baza-4897b-default-rtdb.firebaseio.com",
+    "project_id": "baza-4897b",
+    "storage_bucket": "baza-4897b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331353907374:android:98ffea87fb8ea55d800d3f",
+        "android_client_info": {
+          "package_name": "pl.edu.ug.baza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331353907374-66086lqfbvpfs3arvqrkv81rcqmsgfjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.edu.ug.baza",
+            "certificate_hash": "40a29099ce11b663d6f1d9f4b6b28d1c5f9b21f6"
+          }
+        },
+        {
+          "client_id": "331353907374-794skt93hmtji1ovv5q7qblsbbiq6cur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTNOfK-46LjR05mqFX0cNmg0oCQgyCOGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331353907374-794skt93hmtji1ovv5q7qblsbbiq6cur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
